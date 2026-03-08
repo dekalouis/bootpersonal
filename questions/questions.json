@@ -1,6 +1,4 @@
-
-// quesiton list
-
+[
 {
   "id": "0",
   "title": "Contains Duplicates", 
@@ -45,3 +43,4 @@
   "time_complexity": "O(n)", 
   "space_complexity": "O(n)"
 }
+]
